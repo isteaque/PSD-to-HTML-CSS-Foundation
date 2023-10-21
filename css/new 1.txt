@@ -1,0 +1,120 @@
+.dropdown.menu a:hover{
+	color:#22c3ce;
+	border-bottom:2px solid #22c3ce;
+}
+border-bottom: 2px solid transparent;
+
+
+<li class="is-active orbit-slide">
+					<figure class="orbit-figure">
+					  <img class="orbit-image" src="https://placehold.it/1200x600/999?text=Slide-1" alt="Space">
+					  <figcaption class="orbit-caption">Space, the final frontier.</figcaption>
+					</figure>
+				  </li>
+				  <li class="orbit-slide">
+					<figure class="orbit-figure">
+					  <img class="orbit-image" src="https://placehold.it/1200x600/888?text=Slide-2" alt="Space">
+					  <figcaption class="orbit-caption">Lets Rocket!</figcaption>
+					</figure>
+				  </li>
+				  <li class="orbit-slide">
+					<figure class="orbit-figure">
+					  <img class="orbit-image" src="https://placehold.it/1200x600/777?text=Slide-3" alt="Space">
+					  <figcaption class="orbit-caption">Encapsulating</figcaption>
+					</figure>
+				  </li>
+				  <li class="orbit-slide">
+					<figure class="orbit-figure">
+					  <img class="orbit-image" src="https://placehold.it/1200x600/666&text=Slide-4" alt="Space">
+					  <figcaption class="orbit-caption">Outta This World</figcaption>
+					</figure>
+				  </li>
+				  
+				  
+				  <ul class="orbit-container"
+				  
+				  
+				  <div class="grid-x">
+		    <div class="cell">full width cell</div>
+		    <div class="cell">full width cell</div>
+		</div
+		
+		
+		
+		
+		
+		<div class="grid-container">
+		<div class="grid-x">
+		
+			<div class="medium-6 large-4 cell">
+				<div class="portfoliosample">
+					<img src="img/item1.jpg" alt=""/>
+					<h4>Lorem Ipsum is simply</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting of the</p>
+				</div>
+			</div>
+			
+			<div class="medium-6 large-4 cell">
+				<div class="portfoliosample">
+					<img src="img/item2.jpg" alt=""/>
+					<h4>Lorem Ipsum is simply</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting of the</p>
+				</div>
+			</div>
+			
+			<div class="medium-6 large-4 cell">
+				<div class="portfoliosample portfoliosample3">
+					<img src="img/item3.jpg" alt=""/>
+					<h4>Lorem Ipsum is simply</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting of the</p>
+				</div>
+			</div>
+			
+			<div class="medium-6 large-4 cell">
+				<div class="portfoliosample">
+					<img src="img/item4.jpg" alt=""/>
+					<h4>Lorem Ipsum is simply</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting of the</p>
+				</div>
+			</div>
+			
+			<div class="medium-6 large-4 cell">
+				<div class="portfoliosample">
+					<img src="img/item5.jpg" alt=""/>
+					<h4>Lorem Ipsum is simply</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting of the</p>
+				</div>
+			</div>
+			
+			<div class="medium-6 large-4 cell">
+				<div class="portfoliosample portfoliosample6">
+					<img src="img/item6.jpg" alt=""/>
+					<h4>Lorem Ipsum is simply</h4>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting of the</p>
+				</div>
+			</div>
+			
+		</div>
+	 </div>
+	 
+	 
+	 
+	 <div class="grid-x">
+		
+			<div class="small-3 cell"">
+				<img src="img/brand1.png" alt=""/>
+			</div>
+			
+			<div class="small-3 cell">
+				<img src="img/brand2.png" alt=""/>
+			</div>
+			
+			<div class="small-3 cell">
+				<img src="img/brand3.png" alt=""/>
+			</div>
+			
+			<div class="small-3 cell">
+				<img src="img/brand4.png" alt=""/>
+			</div>
+			
+		</div
